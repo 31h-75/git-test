@@ -20,4 +20,5 @@ div {
 h2 {
     background-color: white;
     color: black;
+    border: 1px solid blue;
 }
